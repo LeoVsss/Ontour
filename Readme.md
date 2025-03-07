@@ -1,7 +1,7 @@
 Esse website é um projeto de TCC para o curso técnico de Desenvolvimento de Sistemas, construído por Leonardo Vinicius dos Santos, João Terra e Samuel Peres Franzo.
 
 O projeto consiste em um website de Turismo, onde uma nova empresa busca se estabelecer no mercado, essa é a Ontour. 
-O site possui um sistema de login, verficação da existência de usuário e Banco de Dados.
+O site possui um sistema de login, verficação da existência de usuário, API de CEP e Banco de Dados.
 
 \\Utilização\\
 
