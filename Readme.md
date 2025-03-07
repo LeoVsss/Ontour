@@ -7,7 +7,7 @@ O site possui um sistema de login, verficação da existência de usuário, API 
 
 Para tudo funcionar, precisa instalar o xampp, para rodar um servidor local.
 
-Para utilizá-lo, basta se registrar com email, senha, CPF e endereço. Feito isso, realize o login. Então, ao logar, vá para a aba de Pacotes, onde estão os serviços oferecidos, escolher o aeroporto que gostaria de utilizar, escrever o nome de seu destino, e a data. Assim, se estiver disponível, o site irá buscar o melhor pacote para o usuário, mostrar uma descrição sobre cada dia e seu planejamento. Caso seja o que está buscando, selicione a opção de reservar.
+Para utilizá-lo, basta se registrar com email, senha, CPF e endereço. Feito isso, realize o login. Então, ao logar, vá para a aba de Pacotes, onde estão os serviços oferecidos, escolher o aeroporto que gostaria de utilizar, escrever o nome de seu destino, e a data. Assim, se estiver disponível, o site irá buscar o melhor pacote para o usuário, mostrando uma descrição sobre cada dia e seu planejamento. Caso seja o que está buscando, selicione a opção "Reserve já".
 
 ![Imagem destacada](https://github.com/LeoVsss/Ontour/blob/master/OntourImage.png?raw=true)
 ![Imagem destacada](https://github.com/LeoVsss/Ontour/blob/master/OntourLogin.png?raw=true)
